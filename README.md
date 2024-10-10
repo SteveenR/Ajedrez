@@ -4,3 +4,4 @@
 "REY AJEDREZ" (https://skfb.ly/6wWKo) by andeerarteaga is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 "Reina Low" (https://skfb.ly/o7IHF) by EmpDevTeam is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 "Rook Torre" (https://skfb.ly/oH8qJ) by Blackpichon is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+Tablero de ajedrez está bajo licencia CC BY 4.0© 2Michael Briceño
